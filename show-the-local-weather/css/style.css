@@ -1,0 +1,11 @@
+body {
+  background-image:
+    radial-gradient(
+      circle at top left,
+      #aa6,
+      #22a
+    );
+  font-family: 'Hammersmith One', sans-serif;
+  color: #ccc;
+  text-shadow: 2px 2px #555;
+}
