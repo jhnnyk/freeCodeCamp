@@ -1,0 +1,35 @@
+h1 {
+  font-family: 'Architects Daughter', cursive;
+  font-size: 4em;
+}
+
+.logo {
+  height: 70px;
+  width: auto;
+}
+
+#streamers {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+#streamers img {
+  float: left;
+  margin-right: 20px;
+}
+
+#streamers li {
+  border-radius: 40px;
+  margin: 2px;
+  padding: 10px;
+  float: left;
+  width: 100%;
+}
+
+.online {
+  background-color: #0c9;
+}
+
+.offline {
+  background-color: #369;
+}
