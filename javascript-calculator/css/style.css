@@ -1,0 +1,46 @@
+body {
+  font-family: 'Roboto Mono', monospace;
+  background-color: #666;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+h1 {
+  font-family: 'Lobster', cursive;
+  text-shadow: 1px 1px #666;
+}
+
+.lead {
+  text-transform: uppercase;
+  font-size: 15px;
+  margin: 0;
+  position: relative;
+  top: -10px;
+}
+
+
+.calculator {
+  width: 380px;
+  background-color: #45c;
+  padding: 10px 30px;
+  border-radius: 10px;
+}
+
+.btn {
+  width: 40px;
+  color: #555;
+  font-size: 20px;
+  padding: 3px;
+  border-radius: 7px;
+  margin: 3px 0;
+}
+
+#window {
+  font-family: 'VT323', monospace;
+  font-size: 25px;
+  background-color: #ccc;
+  border-radius: 5px;
+  min-height: 39px;
+  margin: 0 40px 10px;
+  padding: 2px 8px;
+}
